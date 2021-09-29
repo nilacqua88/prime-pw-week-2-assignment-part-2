@@ -26,8 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-//
-//
+//Making a varible called name and set the name as Dane.
+//Then we do a if check. If the name is Mary we do a console log to say Hi Mary but if else we do a console log to say How do you do.
 //
 //
 //CODE
@@ -44,10 +44,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+//We set a varible as a secret but the secret is not assigned anything yet.
+//We set another varible called code and that code is 123, which is a number.
+//if statement stating if our code equals 123 then the secret will be super and the code with be multipled by 2.
+//Another if statment, if the code is greater then 250 it will be duper. Then there will be a console log saying duper.
 
 //CODE
 /*
@@ -69,7 +69,8 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
+//Setting a boolean varible (true or false) which is set to isStudent which is true.
+//Setting two number varibles, one is their age and the other is their zip code. Their age is 34 and their zip code is 55407.
 //
 //
 //
