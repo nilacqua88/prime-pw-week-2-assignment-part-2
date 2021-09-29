@@ -46,8 +46,8 @@ if (name === 'Mary') {
 // 2. WRITE YOUR DESCRIPTION HERE
 //We set a varible as a secret but the secret is not assigned anything yet.
 //We set another varible called code and that code is 123, which is a number.
-//if statement stating if our code equals 123 then the secret will be super and the code with be multipled by 2.
-//Another if statment, if the code is greater then 250 it will be duper. Then there will be a console log saying duper.
+//if statement stating if our code is true and an exact match of 123 then the secret will be super and the code with be multipled by 2.
+//Another if statment, if the code is greater than 250 it will be duper. Then there will be a console log saying duper.
 
 //CODE
 /*
@@ -71,9 +71,12 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 //Setting a boolean varible (true or false) which is set to isStudent which is true.
 //Setting two number varibles, one is their age and the other is their zip code. Their age is 34 and their zip code is 55407.
+//If statement is an exact match to true and their zip code is greater than 8000, they will be
+//a student on the west coast (which will be a console log)
+//The next two linesof the codes are else if statements which is if the if statement isn't true then the else if
+//statements will come into play. If those aren't true then the else statement will come into play
 //
-//
-//
+
 
 //CODE
 /*
@@ -136,6 +139,8 @@ let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+// Fix- It says colorone and colortwo were set to purple but colorTwo is not set
+//blue and not changed like color one-- needs to be added-- colorTwo = 'purple';
 }
 */
 
