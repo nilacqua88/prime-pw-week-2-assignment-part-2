@@ -151,7 +151,7 @@ if (mix === true) {
 /*
 let temp = 40;
 const time = 4;
-
+//Fix || this should be && because && = and.
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
@@ -164,8 +164,9 @@ if (temp > 39 || time >= 4) {
 /*
 let age = 21;
 const minAge = 21;
-
+//Fix if ststement should be if (minAge >= age)
 if(minAge <= age) {
+//Fix this console log and the other one should be switched around.
   console.log('no entry');
 } else {
   console.log('enter');
